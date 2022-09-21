@@ -33,7 +33,17 @@ header div{
 }
 
 .img123{
-    height: 440px;
-    width: 300px;
-    padding: 30px 10px;
+    height: 500px;
+    width: 350px;
+    padding: 0px 5px;
 }
+
+.info{
+    padding: 0px 5px;
+    margin-bottom: 30px;
+}
+
+.sconto{
+    color: red;
+}
+

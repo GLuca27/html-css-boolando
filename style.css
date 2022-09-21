@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    display: flex;
+    background-color: #ff6900;
+    color: #fff;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+
+.logo{
+    height: 30px;
+    width: 100px;
+}
+
+header div{
+    vertical-align: middle;
+}
+
+main div{
+    flex-wrap: wrap;
+}
+
+.img123{
+    height: 400px;
+    width: 300px;
+}

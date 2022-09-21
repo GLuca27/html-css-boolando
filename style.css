@@ -12,6 +12,7 @@ header{
     justify-content: space-around;
     align-items: center;
     height: 50px;
+    margin-bottom: 30px;
 }
 
 .logo{
@@ -23,11 +24,16 @@ header div{
     vertical-align: middle;
 }
 
-main div{
+.conteiner{
+    display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1199px;
+    
 }
 
 .img123{
-    height: 400px;
+    height: 440px;
     width: 300px;
+    padding: 30px 10px;
 }
